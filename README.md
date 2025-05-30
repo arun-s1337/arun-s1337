@@ -1,11 +1,11 @@
-## Hi there 👋
+
 
 <!-- Profile Header -->
 <div align="center">
   <img src="https://your-header-image-url.gif" alt="Cloud & DevOps Engineer Banner" width="100%" />
 </div>
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [ARUN.S]
 ### Cloud & DevOps Engineer | Python Enthusiast | Open Source Contributor
 
 Welcome to my GitHub profile! I'm passionate about building scalable infrastructure and automating workflows to enhance development efficiency. Here's a glimpse into my world:
@@ -66,9 +66,8 @@ I believe in continuous learning and strive to improve my skills every day. When
 
 ## ⚡ Quick Links
 
-- [My Portfolio](https://yourportfolio.com)
-- [My Blog](https://yourblog.com)
-- [My Projects](https://github.com/yourusername?tab=repositories)
+- [My Portfolio](https://arun-s1337.github.io/)
+- [My Projects](https://github.com/arun-s1337)
 
 ---
 
