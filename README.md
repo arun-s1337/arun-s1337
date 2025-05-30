@@ -1,9 +1,6 @@
 
 
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://your-header-image-url.gif" alt="Cloud & DevOps Engineer Banner" width="100%" />
-</div>
+
 
 # 👋 Hi, I'm [ARUN.S]
 ### Cloud & DevOps Engineer | Python Enthusiast | Open Source Contributor
@@ -54,7 +51,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 - [LinkedIn]( https://www.linkedin.com/in/arun-s-71b530263/ )
 - [Email](arunlegil.0803@gmail.com)
 
-Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about DevOps and cloud technologies!
 
 ---
 
