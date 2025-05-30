@@ -86,45 +86,5 @@ I believe in continuous learning and strive to improve my skills every day. When
 ## 🏆 Achievements
 
 - 🎖️ Certified AWS Solutions Architect – Associate
-- 🏅 Contributed to [Open Source Project Name]
-- 🏆 Speaker at [Tech Conference Name]
-
----
-
-## 📊 GitHub Activity
-
-![Your Name's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=github)
-
----
-
-## 📌 Pinned Repositories
-
-- [Repository Name](https://github.com/yourusername/repository-name) – Short description of what this repo is about.
-- [Repository Name](https://github.com/yourusername/repository-name) – Short description of what this repo is about.
-- [Repository Name](https://github.com/yourusername/repository-name) – Short description of what this repo is about.
-
----
-
-## 🧩 Projects
-
-Here are some of the projects I've worked on:
-
-- [Project Name](https://github.com/yourusername/project-name) – A brief description of the project.
-- [Project Name](https://github.com/yourusername/project-name) – A brief description of the project.
-- [Project Name](https://github.com/yourusername/project-name) – A brief description of the project.
-
----
-
-## 🧠 Learning Journey
-
-I'm a firm believer in continuous learning. Here's a snapshot of the courses and certifications I'm currently pursuing:
-
-- [Course Name](https://yourlearningplatform.com/course-name) – A brief description of the course.
-- [Course Name](https://yourlearningplatform.com/course-name) – A brief description of the course.
-- [Certification Name](https://yourcertificationplatform.com/certification-name) – A brief description of the certification.
 
 
-
-
-
--->
