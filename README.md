@@ -80,6 +80,6 @@ I believe in continuous learning and strive to improve my skills every day. When
 
 ## 🏆 Achievements
 
-- 🎖️ Certified AWS Solutions Architect – Associate
+- 🎖️ Certified AWS Solutions Architect 
 
 
