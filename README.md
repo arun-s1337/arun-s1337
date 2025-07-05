@@ -34,17 +34,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable infrastruct
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-s1337&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Arun. GitHub Stats](https://github-readme-stats.vercel.app/api?username=arun-s1337&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
----
 
-## 🌱 Currently Learning
-
-- Advanced Kubernetes Networking
-- Terraform for Infrastructure as Code
-- Helm for Kubernetes Package Management
-
----
 
 ## 📬 Let's Connect
 
@@ -66,20 +58,3 @@ I believe in continuous learning and strive to improve my skills every day. When
 - [My Projects](https://github.com/arun-s1337)
 
 ---
-
-## 🧠 Latest Blog Posts
-
-- [Understanding Kubernetes Networking](https://yourblog.com/kubernetes-networking)
-- [A Beginner's Guide to Terraform](https://yourblog.com/terraform-guide)
-- [CI/CD with Jenkins and Docker](https://yourblog.com/jenkins-docker-cicd)
-
----
-
-
-
-
-## 🏆 Achievements
-
-- 🎖️ Certificate AWS 
-
-
