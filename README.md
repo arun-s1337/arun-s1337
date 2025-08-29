@@ -3,7 +3,7 @@
 
 
 # 👋 Hi, I'm [ARUN.S]
-### Cloud & DevOps Engineer | Python Enthusiast | Open Source Contributor
+### DevOps Engineer | Python Enthusiast | Open Source Contributor
 
 Welcome to my GitHub profile! I'm passionate about building scalable infrastructure and automating workflows to enhance development efficiency. Here's a glimpse into my world:
 
